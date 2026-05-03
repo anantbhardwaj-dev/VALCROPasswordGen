@@ -256,7 +256,7 @@ def header(title: str):
    ╚████╔╝ ██║  ██║███████╗╚██████╗██║  ██║╚██████╔╝
     ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
     """ + R)
-    print(DIMTXT + "  ▸ Password Gen  •  Beast Mode v2.0  •  Unhackable Fortress" + R)
+    print(DIMTXT + "  ▸ Password Gen • Beast Mode v2.0 • @anxntbhardwaj" + R)
     line('═')
     print(f"  {ACCENT2}{B}▶  {title}{R}")
     line('─')
